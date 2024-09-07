@@ -43,7 +43,7 @@ new Swiper(".testimonials", {
     },
     loop: true,
     autoplay: {
-        delay: 5000,
+        delay: 4000,
     },
     effect: 'slide',
     slidesPerView: 1,

@@ -6,7 +6,7 @@ var mySwiper = new Swiper('.hero-swiper', {
     speed: 1000,
     parallax: true,
     autoplay: {
-        delay: 8000,
+        delay: 4000,
         disableOnInteraction: false,
     },
     watchSlidesProgress: true,
@@ -43,7 +43,7 @@ new Swiper(".testimonials", {
     },
     loop: true,
     autoplay: {
-        delay: 5000,
+        delay: 4000,
     },
     effect: 'slide',
     slidesPerView: 1,
